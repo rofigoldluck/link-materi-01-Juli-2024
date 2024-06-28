@@ -30,7 +30,7 @@ body {
 
 .bg-text-animation {
     position: absolute;
-    font-size: 7rem;
+    font-size: 5rem;
     top: 8rem;
     text-transform: uppercase;
     /* opacity: .15; */
