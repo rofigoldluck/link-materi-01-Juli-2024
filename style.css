@@ -30,8 +30,8 @@ body {
 
 .bg-text-animation {
     position: absolute;
-    font-size: 5rem;
-    top: 8rem;
+    font-size: 4.5rem;
+    top: 9rem;
     text-transform: uppercase;
     /* opacity: .15; */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
