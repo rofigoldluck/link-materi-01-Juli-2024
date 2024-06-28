@@ -7,6 +7,11 @@
     box-sizing: border-box;
 }
 
+html {
+    width: 100vw;
+    overflow-x: hidden;
+}
+
 body {
     background-color: #191931;
     color: #e1e1f1;
@@ -39,6 +44,7 @@ body {
 
 .logo {
     width: 30rem;
+    max-width: 80%;
 }
 
 h2 {
